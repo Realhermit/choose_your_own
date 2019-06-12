@@ -1,0 +1,11 @@
+#Ignore RData
+workspaceImage.RData
+*.RData
+
+
+#Ignore datasets
+/UCI HAR Dataset/
+/__MACOSX/
+/.Rproj.user/
+*.Rhistory
+
